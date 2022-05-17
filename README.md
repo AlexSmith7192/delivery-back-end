@@ -9,7 +9,7 @@
 - [Arquitetura](#Arquitetura)
 - [Outros Scripts da Aplicação](#outros-scripts-configurados-na-aplicação)
 - [Deploy](#Deploy)
-- [Contato](#Contato)
+- [Equipe](#Equipe)
 
 ## Descrição
 
@@ -24,7 +24,7 @@ Dessa forma ela solicitou uma aplicação para a venda, controle de entregas e a
 Foi desenvolvida a aplicação back-end para para que fosse possível fazer toda a dinâmica de:
 
 - Fluxo do cliente
-  - Apresentar produtos; 
+  - Apresentar produtos;
   - Fazer pedidos;
   - Acompanhar pedidos;
 - Fluxo do vendedor
@@ -155,13 +155,13 @@ Na pasta `/src` temos:
 
 ## Outros Scripts configurados na aplicação
 
-* `npm run db:reset` para dropar, re-criar e fazer a migração do banco de dados
-* `npm run dev` para rodar a aplicação com Nodemon e reinício automático na atualização de qualquer arquivo;
-* `npm run test` para rodar todos os testes;
-* `npm run test:coverage` para rodar todos os testes e gerar o relatório de cobertura na tela do terminal;
-* `npm run test:coverage:json` para rodar todos os testes e gerar o relatório de cobertura em json, acessível na pasta `/coverage`;
-* `npm run test:coverage:report` para rodar todos os testes e gerar o relatório de cobertura em html, acessível na pasta `/coverage/lcov-report/`;
-* `npm run lint` para rodar o ESLint;
+- `npm run db:reset` para dropar, re-criar e fazer a migração do banco de dados
+- `npm run dev` para rodar a aplicação com Nodemon e reinício automático na atualização de qualquer arquivo;
+- `npm run test` para rodar todos os testes;
+- `npm run test:coverage` para rodar todos os testes e gerar o relatório de cobertura na tela do terminal;
+- `npm run test:coverage:json` para rodar todos os testes e gerar o relatório de cobertura em json, acessível na pasta `/coverage`;
+- `npm run test:coverage:report` para rodar todos os testes e gerar o relatório de cobertura em html, acessível na pasta `/coverage/lcov-report/`;
+- `npm run lint` para rodar o ESLint;
 
 ## Deploy
 
@@ -171,12 +171,18 @@ Esta acessível pelo endpoint `https://g3-deliveryapp-backend.herokuapp.com/`.
 
 É possível acessar a página Swagger da aplicação rodando e/ou testar a aplicação, ver detalhadamente os parâmetros esperados, as possíveis respostas e sua formatação [aqui](https://g3-deliveryapp-backend.herokuapp.com/swagger/).
 
-## Contato
+## Equipe
 
-Desenvolvido por Roberval Filho
+Desenvolvido por:
 
-Email: rslfilho@gmail.com
+[Alex Smith](https://github.com/AlexSmith7192)
 
-Github: https://github.com/rslfilho
+[Anderson Silva](https://github.com/AndersonSilva94)
 
-LinkedIn: https://www.linkedin.com/in/rslfilho/
+[Paulo Eliezer](https://github.com/pauloeliezerg)
+
+[Roberval Filho](https://github.com/rslfilho)
+
+[Sérgio Barbosa](https://github.com/sergioabarbosa)
+
+[Uriel Bochi](https://github.com/urielbochi)
