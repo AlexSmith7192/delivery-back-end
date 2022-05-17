@@ -32,7 +32,7 @@ Foi desenvolvida a aplicação back-end para para que fosse possível fazer toda
 - Fluxo do administrador
   - Gerenciar usuários;
 
-Foi desenvolvida uma aplicação front-end que se encontra [nesse repositório](https://github.com/rslfilho/delivery-front-end).
+Foi desenvolvida uma aplicação front-end que se encontra [nesse repositório](https://github.com/AlexSmith7192/delivery-front-end).
 
 ## Como usar online
 
