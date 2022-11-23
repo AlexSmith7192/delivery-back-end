@@ -59,7 +59,7 @@ Consumidor:
 1 - Para clonar o repositório, vá até o diretório onde deseja clonar, execute o `git clone` e depois entre no diretório criado:
 
 ```bash
-git clone git@github.com:rslfilho/delivery-back-end.git
+git clone git@github.com:AlexSmith7192/delivery-back-end.git
 cd delivery-back-end
 ```
 
